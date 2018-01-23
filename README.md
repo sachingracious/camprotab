@@ -1,6 +1,6 @@
 ------------------------------------------------------
 
-* interactive table using projector, kinet*
+## Interactive table using projector, kinet
 * depends 
 >opencv 3.3
 >python 2.7
